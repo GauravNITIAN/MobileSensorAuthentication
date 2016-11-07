@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HumanSensor</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_data_colect">DataColect</string>
+    <string name="title_activity_data_collect">DataCollect</string>
+    <string name="title_activity_test_data_collect">TestDataCollect</string>
+
+</resources>
